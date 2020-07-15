@@ -1,1 +1,1 @@
-if  else 
+if 'bob' is in 
