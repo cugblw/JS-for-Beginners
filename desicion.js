@@ -1,1 +1,0 @@
-if 'bob' is in 
