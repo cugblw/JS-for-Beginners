@@ -19,3 +19,21 @@ let anotherCar = {};
 anotherCar.whatever='bob';
 console.log(anotherCar.whatever);
 */
+
+/*
+var a = {
+    myProperty:{b:'hi'}
+};
+console.log((a.myProperty.b));
+*/
+
+/*
+var c = {
+    myProperty:[
+        {d: 'this'},
+        {e:'can'},
+        {f:'get'},
+        {g:'crazy'}
+    ]
+};
+*/
